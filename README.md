@@ -21,6 +21,7 @@ To do:
 2. Add vision of boids
 3. Add obstacles into environment
 4. Add traps into environment
+
 -in no particular order-
 Allow manipulation of food (likely to change the boid to interact with pixels around it)
 Add a health bar and allow boids to attack each other
