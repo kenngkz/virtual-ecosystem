@@ -23,13 +23,23 @@ To do:
 4. Add traps into environment
 
 -in no particular order-
+
 Allow manipulation of food (likely to change the boid to interact with pixels around it)
+
 Add a health bar and allow boids to attack each other
+
 Allow donation of energy between 2 boids
+
 Have 2 types of obstacles/traps, manipulable and non-manipulable 
+
 Add reproduction, have baby phase where boid has limited movement
+
 Add evolution system (maybe have differing energy consumption during baby phase according to attributes passed down from parents)
+
 Add different types of food and different nutrition (not just energy), let size and speed needing different combinations of nutrition
+
 Add memory for boids
+
 Place boids with different strategies within the same environment and observe the results
+
 Sexual reproduction (?)
