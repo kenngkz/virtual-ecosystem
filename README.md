@@ -43,3 +43,5 @@ Add memory for boids
 Place boids with different strategies within the same environment and observe the results
 
 Sexual reproduction (?)
+
+Implementing vision range eg. rectangle in front of boid (hence introducing orientation)
