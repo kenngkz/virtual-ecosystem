@@ -1,4 +1,4 @@
-# Virtual-Ecosystem (On-hold)
+# Virtual Ecosystem (On-hold)
 
 This project aims to simulate evolution of animals (called boids) competing in a ecosystem with regards to vision, speed, size and 'brain' structure. The first objective of the project will be to use reinforcement learning to train boids to look for food and avoid obstacles/traps. Study of the evolution of cooperative behaviour will be the second objective of this project. The third objective would be to simulate specialization by introducing different 'nutrition' needs for different attributes of the boids.
 
